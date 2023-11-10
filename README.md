@@ -1,8 +1,8 @@
 # Project Red and Blue
-Protyping passionate Game Jam project for our team on Unreal Engine using blueprints and implementing unique mechanics.
+Protyping a Game Jam project for our team on Unreal Engine using blueprints by implementing unique mechanics.
 
 ## Motivation
-Developing a local two player game where the okayercontrols both the player and solves puzzle based on the color of the character<br>
+Developing a two character local game where the player controls both of them and solves puzzle based on the colors of the characters!<br>
 See the project in action here => Soon..
 
 ## Screenshots
