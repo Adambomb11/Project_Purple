@@ -1,4 +1,4 @@
-# Project Red and Blue
+# Project Purple
 Protyping a Game Jam project for our team on Unreal Engine using blueprints by implementing unique mechanics.
 
 ## Motivation
