@@ -6,7 +6,8 @@ Developing a two character local game where the player controls both of them and
 See the project in action here => Soon..
 
 ## Screenshots
-Soon once the project get into actual production!
+<img src="1.png" width="750">
+<img src="2.png" width="750">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
