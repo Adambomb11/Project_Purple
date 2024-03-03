@@ -3,7 +3,7 @@ Protyping a Game Jam project for our team on Unreal Engine using blueprints by i
 
 ## Motivation
 Developing a two character local game where the player controls both of them and solves puzzle based on the colors of the characters!<br>
-See the project in action here => https://drive.google.com/file/d/1G_cHw_cNzwY2X9RNWJSgmaJicslq7jxm/view?usp=drive_link
+Enjoy the project by downloading from lreleases section
 
 ## Screenshots
 <img src="1.png" width="750">
