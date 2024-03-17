@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\My Data\Unreal Projects\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp.obj"
-"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Default.rc2.res"
+"C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp.obj"
+"C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputCore\UnrealEditor-InputCore.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -68,7 +68,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Binaries\Win64\UnrealEditor-CustomSplitScreen.dll"
-/IMPLIB:"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\UnrealEditor-CustomSplitScreen.sup.lib"
-/PDB:"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Binaries\Win64\UnrealEditor-CustomSplitScreen.pdb"
+/OUT:"C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Binaries\Win64\UnrealEditor-CustomSplitScreen.dll"
+/IMPLIB:"C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\UnrealEditor-CustomSplitScreen.sup.lib"
+/PDB:"C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Binaries\Win64\UnrealEditor-CustomSplitScreen.pdb"
 /ignore:4078

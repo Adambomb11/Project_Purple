@@ -75,5 +75,5 @@
 /DPROJECT_COMPANY_NAME=Project_Purple
 /DPROJECT_PRODUCT_NAME=Project_Purple
 /DPROJECT_PRODUCT_IDENTIFIER=Project_RedAndBlue
-/fo "C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Default.rc2.res"
+/fo "C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

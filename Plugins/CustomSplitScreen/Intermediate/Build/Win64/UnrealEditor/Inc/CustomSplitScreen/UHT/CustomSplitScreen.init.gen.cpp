@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeCustomSplitScreen_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xF48055F4,
+				0xAF5F296E,
 				0x943A6EF8,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeCustomSplitScreen_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_CustomSplitScreen.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CustomSplitScreen(Z_Construct_UPackage__Script_CustomSplitScreen, TEXT("/Script/CustomSplitScreen"), Z_Registration_Info_UPackage__Script_CustomSplitScreen, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF48055F4, 0x943A6EF8));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CustomSplitScreen(Z_Construct_UPackage__Script_CustomSplitScreen, TEXT("/Script/CustomSplitScreen"), Z_Registration_Info_UPackage__Script_CustomSplitScreen, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xAF5F296E, 0x943A6EF8));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
