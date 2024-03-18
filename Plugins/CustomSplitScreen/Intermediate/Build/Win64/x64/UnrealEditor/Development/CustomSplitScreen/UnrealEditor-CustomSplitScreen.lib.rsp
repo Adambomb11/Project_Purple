@@ -6,7 +6,15 @@
 /NAME:"UnrealEditor-CustomSplitScreen.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< Updated upstream
 "C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
 "C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp.obj"
 "C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Default.rc2.res"
 /OUT:"C:\Users\graphic\OneDrive - George Brown College\unreal projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\UnrealEditor-CustomSplitScreen.lib"
+=======
+"C:\My Data\Unreal Projects\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp.obj"
+"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\CustomGameViewportClient.cpp.obj"
+"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Default.rc2.res"
+/OUT:"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\UnrealEditor-CustomSplitScreen.lib"
+>>>>>>> Stashed changes

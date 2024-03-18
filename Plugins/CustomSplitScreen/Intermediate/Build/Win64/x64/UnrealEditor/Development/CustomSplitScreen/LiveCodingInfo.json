@@ -4,8 +4,8 @@
 		"Module.CustomSplitScreen.cpp.obj": [
 			"CustomGameViewportClient.gen.cpp.obj",
 			"CustomSplitScreen.init.gen.cpp.obj",
-			"CustomGameViewportClient.cpp.obj",
-			"CustomSplitScreen.cpp.obj"
+			"CustomSplitScreen.cpp.obj",
+			"CustomGameViewportClient.cpp.obj"
 		]
 	}
 }

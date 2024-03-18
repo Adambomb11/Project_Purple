@@ -7,11 +7,22 @@ UCustomGameViewportClient::UCustomGameViewportClient()
      : Super(FObjectInitializer::Get())
 {
      // Resize SplitscreenInfo to fit our custom config
-     SplitscreenInfo.SetNum(ECustomSplitScreenType::SplitTypeCount, false);
+     SplitscreenInfo.SetNum(ECustomSplitScreenType::SplitTypeCount, true);
 
      // Fill the custom config
-     SplitscreenInfo[ECustomSplitScreenType::TwoPlayer].PlayerData.Add(FPerPlayerSplitscreenData(Player1_NewSizeX, Player1_NewSizeY, 0.00f, 0.00f)); //Player #1
-     SplitscreenInfo[ECustomSplitScreenType::TwoPlayer].PlayerData.Add(FPerPlayerSplitscreenData(Player2_NewSizeX, Player2_NewSizeY, 1.0 - Player1_NewSizeX, 0.00f)); //Player #2
+     SplitscreenInfo[ECustomSplitScreenType::TwoPlayer].PlayerData.Add(
+     	FPerPlayerSplitscreenData(
+     		Player1_NewSizeX,
+     		Player1_NewSizeY,
+     		0.00f,
+     		0.00f)); //Player #1
+
+     SplitscreenInfo[ECustomSplitScreenType::TwoPlayer].PlayerData.Add(
+     	FPerPlayerSplitscreenData(
+     		Player2_NewSizeX,
+     		Player2_NewSizeY,
+     		Player1_NewSizeX,
+     		0.00f)); //Player #2
 }
 
 void UCustomGameViewportClient::UpdateActiveSplitscreenType()
