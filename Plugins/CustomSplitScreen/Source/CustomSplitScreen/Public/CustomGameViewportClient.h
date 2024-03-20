@@ -38,12 +38,12 @@ public:
      virtual void UpdateActiveSplitscreenType() override;
 
      UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="SplitScreenViewportSize|Player 1")
-     float Player1_NewSizeX = .66f;
+     float Player1_NewSizeX = .5f;
      UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="SplitScreenViewportSize|Player 1")
      float Player1_NewSizeY = 1.0f;
      
      UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="SplitScreenViewportSize|Player 2")
-     float Player2_NewSizeX = .33f;
+     float Player2_NewSizeX = .5f;
      UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="SplitScreenViewportSize|Player 2")
      float Player2_NewSizeY = 1.0f;
 };

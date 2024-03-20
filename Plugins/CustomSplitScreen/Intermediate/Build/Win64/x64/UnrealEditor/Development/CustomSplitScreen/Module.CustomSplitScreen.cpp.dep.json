@@ -1,20 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customsplitscreen\\module.customsplitscreen.cpp",
+        "Source": "c:\\my data\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customsplitscreen\\module.customsplitscreen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\intermediate\\build\\win64\\x64\\project_redandblueeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\my data\\unreal projects\\project_purple\\intermediate\\build\\win64\\x64\\project_redandblueeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-<<<<<<< Updated upstream
-            "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customsplitscreen\\definitions.customsplitscreen.h",
-            "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\customsplitscreen\\uht\\customgameviewportclient.gen.cpp",
-            "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\public\\customgameviewportclient.h",
-            "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\customsplitscreen\\uht\\customgameviewportclient.generated.h",
-            "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\customsplitscreen\\uht\\customsplitscreen.init.gen.cpp",
-            "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\private\\customgameviewportclient.cpp",
-            "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\private\\customsplitscreen.cpp",
-            "c:\\users\\graphic\\onedrive - george brown college\\unreal projects\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\public\\customsplitscreen.h"
-=======
             "c:\\my data\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customsplitscreen\\definitions.customsplitscreen.h",
             "c:\\my data\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\customsplitscreen\\uht\\customgameviewportclient.gen.cpp",
             "c:\\my data\\unreal projects\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\public\\customgameviewportclient.h",
@@ -22,7 +12,6 @@
             "c:\\my data\\unreal projects\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\customsplitscreen\\uht\\customsplitscreen.init.gen.cpp",
             "c:\\my data\\unreal projects\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\private\\customsplitscreen.cpp",
             "c:\\my data\\unreal projects\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\public\\customsplitscreen.h"
->>>>>>> Stashed changes
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
