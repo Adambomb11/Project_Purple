@@ -1,11 +1,11 @@
-"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp"
-/FI"C:\My Data\Unreal Projects\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Definitions.CustomSplitScreen.h"
-/Yu"C:\My Data\Unreal Projects\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\My Data\Unreal Projects\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp.obj"
-/sourceDependencies "C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp.dep.json"
-@"C:\My Data\Unreal Projects\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\CustomSplitScreen.Shared.rsp"
+"D:\adamd\Unreal Engine\School stuff\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp"
+/FI"D:\adamd\Unreal Engine\School stuff\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"D:\adamd\Unreal Engine\School stuff\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Definitions.CustomSplitScreen.h"
+/Yu"D:\adamd\Unreal Engine\School stuff\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"D:\adamd\Unreal Engine\School stuff\Project_Purple\Intermediate\Build\Win64\x64\Project_RedAndBlueEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"D:\adamd\Unreal Engine\School stuff\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp.obj"
+/sourceDependencies "D:\adamd\Unreal Engine\School stuff\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\Module.CustomSplitScreen.cpp.dep.json"
+@"D:\adamd\Unreal Engine\School stuff\Project_Purple\Plugins\CustomSplitScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomSplitScreen\CustomSplitScreen.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
