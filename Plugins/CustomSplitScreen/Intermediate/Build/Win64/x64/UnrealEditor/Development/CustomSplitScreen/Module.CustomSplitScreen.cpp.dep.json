@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customsplitscreen\\module.customsplitscreen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\adamd\\unreal engine\\school stuff\\project_purple\\intermediate\\build\\win64\\x64\\project_redandblueeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customsplitscreen\\definitions.customsplitscreen.h",
+            "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\customsplitscreen\\uht\\customgameviewportclient.gen.cpp",
+            "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\public\\customgameviewportclient.h",
+            "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\customsplitscreen\\uht\\customgameviewportclient.generated.h",
+            "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\customsplitscreen\\uht\\customsplitscreen.init.gen.cpp",
+            "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\private\\customgameviewportclient.cpp",
+            "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\private\\customsplitscreen.cpp",
+            "d:\\adamd\\unreal engine\\school stuff\\project_purple\\plugins\\customsplitscreen\\source\\customsplitscreen\\public\\customsplitscreen.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
